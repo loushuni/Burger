@@ -44,7 +44,7 @@ const input = (props) => {
 
     return (
         <div className="Input">
-            <lable className="Label">{props.label}</lable>
+            <label className="Label">{props.label}</label>
             {inputElement}
         </div>
     );

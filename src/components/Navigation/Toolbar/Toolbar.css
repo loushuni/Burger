@@ -4,7 +4,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    background-color: #703b09;
+    background-color: rgba(167, 81, 41, 0.945);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -33,7 +33,7 @@
 
 .Title {
     font-size: 22px;
-    color: cornsilk;
+    color: rgb(245, 242, 240);
     font-weight: bolder;
     margin-left: 157.3825px;
 }
